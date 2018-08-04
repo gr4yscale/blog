@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whiteplain</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Whiteplain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2017 Your name</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 14:34:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TODO Draft Post Title</title>
+      <link>https://example.com/blog/draft-post-title/</link>
+      <pubDate>Wed, 01 Aug 2018 14:34:59 +0200</pubDate>
+      
+      <guid>https://example.com/blog/draft-post-title/</guid>
+      <description>This article will be exported but will be marked draft = true in the front matter.</description>
+    </item>
+    
+    <item>
+      <title>DONE Post Title</title>
+      <link>https://example.com/blog/post-title-in-slug-form/</link>
+      <pubDate>Tue, 19 Dec 2017 17:00:00 +0100</pubDate>
+      
+      <guid>https://example.com/blog/post-title-in-slug-form/</guid>
+      <description>Content
+More Content
+echo &amp;#39;Some source code content&amp;#39; echo &amp;#39;This line will be highlighted&amp;#39; echo &amp;#34;This one won&amp;#39;t&amp;#34; Post Sub-Heading This is another section within the post.</description>
+    </item>
+    
+  </channel>
+</rss>
